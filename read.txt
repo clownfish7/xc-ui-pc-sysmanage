@@ -1,0 +1,5 @@
+npm uninstall --save node-sass
+npm install --save node-sass
+
+cnpm uninstall --save node-sass
+cnpm install --save node-sass
